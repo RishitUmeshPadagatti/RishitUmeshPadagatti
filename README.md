@@ -1,5 +1,3 @@
-# Rishit Umesh Padagatti
-
 ### Software Engineer · Full-Stack & Edge AI Systems
 
 ---
