@@ -1,7 +1,5 @@
 ### Software Engineer · Full-Stack & Edge AI Systems
 
----
-
 <p align="center">
   <img src="./gif.gif" width="600">
 </p>
